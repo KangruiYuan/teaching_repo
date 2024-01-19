@@ -20,6 +20,8 @@ git checkout [name]
 git push
 
 git pull
+
+gitee
 ```
 
 
